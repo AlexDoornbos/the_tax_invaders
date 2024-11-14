@@ -10,6 +10,9 @@ body {
 
 p {
     color:rgb(255, 255, 255);
+    display: block;
+    font-size:medium;
+    text-decoration: none;
 }
 h1{
     color: aliceblue;
@@ -17,3 +20,12 @@ h1{
 h2 {
     color: aliceblue;
 }
+img{
+    border-width: 5px;
+border-style: solid;
+border-radius: 20px;
+border-color: rgb(235, 30, 30)
+}
+
+
+
