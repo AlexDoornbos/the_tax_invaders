@@ -1,7 +1,15 @@
 body {
-    background-color: #5f407d;
+    background-color: #463855;
 }
 
 p {
     color:white;
+}
+
+h1 {
+    color: rgb(170, 206, 212);
+}
+
+h2 {
+    color: rgb(170, 206, 212);
 }

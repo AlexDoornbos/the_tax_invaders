@@ -16,3 +16,14 @@ h3{
 p{
     color: white;
 }
+a {
+    color: rgb(174, 174, 255);
+    
+}
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: pink;
+}
