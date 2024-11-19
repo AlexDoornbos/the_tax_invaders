@@ -1,0 +1,11 @@
+.bingus {
+    color:rgb(131, 144, 223);;
+} 
+body{
+    background-color: rgb(131, 144, 223);
+}
+h1,h2{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+}

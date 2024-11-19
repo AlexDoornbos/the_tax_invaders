@@ -1,27 +1,24 @@
+.navBar {
+    font-family: monospace;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 10px;
+    background-color: #402b57;
+}
+
 .img>bingus.webp {
 width : 200px;
 }
-body {
-    background: rgb(59, 59, 97);
-}
-h1 {
-    color: white;
-}
-h2 {
-    color: white;
-}
-h3{
-    color: white;
-}
-p{
-    color: white;
-}
+
 a {
     color: rgb(174, 174, 255);
     
 }
-a:visited {
-    color: gray;
+a:active {
+    color: white;
 }
 
 a:hover {

@@ -1,15 +1,23 @@
 body {
-    background-color: #463855;
+    background-image: url(images/celesteSky.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 p {
-    color:white;
+    color:rgb(155, 45, 165);
+    font-family: monospace;
+    font-size: 15px;
 }
 
 h1 {
     color: rgb(170, 206, 212);
+    font-family: monospace;
+    font-size: 50px;
 }
 
 h2 {
     color: rgb(170, 206, 212);
+    font-family: monospace;
 }
